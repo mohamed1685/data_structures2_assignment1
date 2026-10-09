@@ -1,11 +1,5 @@
-
-
-
-# Optimized Python program for implementation of Bubble Sort
 def bubbleSort(arr):
-    n = len(arr)
-    
-    # Traverse through all array elements
+    n = len(arr)   
     for i in range(n):
         swapped = False
 
